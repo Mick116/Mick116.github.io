@@ -83,11 +83,11 @@ author:
   name             : "Zhu Li (Michael)"
   avatar           : "zhuli.png"
   bio              : #"Your biography for the left-hand sidebar"
-  location         : #"Location"
-  employer         :
+  location         : "Sainsbury Wellcome Centre, London, W1T 4JG"
+  employer         : "Gatsby Computional Neuroscience Unit"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Svq4CgwAAAAJ&hl=en"
-  email            :
+  email            : "zhu.li@ucl.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
