@@ -7,6 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am currently a Research Fellow working with [Professor Arthur Gretton](https://www.gatsby.ucl.ac.uk/~gretton/) in [Gatsby Unit](https://www.ucl.ac.uk/gatsby/gatsby-computational-neuroscience-unit) at the University College London. Before joining UCL, I was a PhD in Department of Statistics at University of Oxford, where I worked with [Professor Dino Sejdinovic](https://sejdino.github.io/).
+
+Research Interest
+======
 At Gatsby, my primary research interest is on learning theory such as kernel methods and deep learning theory. In particulars, I’m interested in establishing theoretical understandings between kernel methods and deep neural networks. Besides that, I’m also working on theoretical properties of various causal inference models.
 
 Publication
