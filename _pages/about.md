@@ -11,4 +11,4 @@ At Gatsby, my primary research interest is on learning theory such as kernel met
 
 Publication
 ======
-- [Li, Zhu, et al. "Optimal rates for regularized conditional mean embedding learning." Advances in Neural Information Processing Systems 35 (2022): 4433-4445.([https://github.com/academicpages/academicpages.github.io](https://proceedings.neurips.cc/paper_files/paper/2022/file/1c71cd4032da425409d8ada8727bad42-Paper-Conference.pdf)https://proceedings.neurips.cc/paper_files/paper/2022/file/1c71cd4032da425409d8ada8727bad42-Paper-Conference.pdf) 
+-  [Li, Zhu, et al. "Optimal rates for regularized conditional mean embedding learning." Advances in Neural Information Processing Systems 35 (2022): 4433-4445.](https://proceedings.neurips.cc/paper_files/paper/2022/file/1c71cd4032da425409d8ada8727bad42-Paper-Conference.pdf)
