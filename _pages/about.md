@@ -20,7 +20,7 @@ Li Zhu, Weijie J. Su, and Dino Sejdinovic.  Journal of the American Statistical 
 -  [Sharp Analysis of Random Fourier Features in Classification.](https://ojs.aaai.org/index.php/AAAI/article/view/20708)
 Li, Zhu. In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 36, no. 7, pp. 7444-7452. 2022.
 
--  [Kernel dependence regularizers and Gaussian processes with applications to algorithmic fairness.]((https://www.sciencedirect.com/science/article/pii/S0031320322004034))
+-  [Kernel dependence regularizers and Gaussian processes with applications to algorithmic fairness.](https://www.sciencedirect.com/science/article/pii/S0031320322004034)
 Li Zhu, Adrián Pérez-Suay, Gustau Camps-Valls, and Dino Sejdinovic. Pattern Recognition 132 (2022): 108922.
 
 
